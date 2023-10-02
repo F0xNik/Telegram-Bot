@@ -62,7 +62,7 @@
 
 ![Сценарий бота "Cute do list"](Images/plot-cute-do-list.png)
 
-<center> Сценарий бота "Cute do list" </center>
+<p align="center"> Сценарий бота "Cute do list" </p> 
 
 <br>
 
